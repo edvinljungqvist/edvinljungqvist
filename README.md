@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there :wave:
 
-<!--
-**EdvinLjungqvist/EdvinLjungqvist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
 
-Here are some ideas to get you started:
+**Languages**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Languages](https://skillicons.dev/icons?i=java,kotlin,ts,js,py,html,css&theme=light)](https://skillicons.dev)
+
+**Frontend**
+
+[![Frontend](https://skillicons.dev/icons?i=nextjs,react,tailwind,bootstrap&theme=light)](https://skillicons.dev)
+
+**Backend**
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,flask&theme=light)](https://skillicons.dev)
+
+**Databases**
+
+[![Databases](https://skillicons.dev/icons?i=mysql,sqlite&theme=light)](https://skillicons.dev)
