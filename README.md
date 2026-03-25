@@ -6,7 +6,7 @@
 
 [![Languages](https://skillicons.dev/icons?i=java,kotlin,ts,js,py,html,css&theme=light)](https://skillicons.dev)
 
-**Frontend**
+**Web**
 
 [![Frontend](https://skillicons.dev/icons?i=nextjs,react,tailwind,bootstrap&theme=light)](https://skillicons.dev)
 
