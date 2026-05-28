@@ -1,4 +1,4 @@
-# Hi there :wave:
+# Edvin Ljungqvst
 
 ## Tech Stack
 
@@ -6,13 +6,9 @@
 
 [![Languages](https://skillicons.dev/icons?i=java,kotlin,ts,js,py,html,css&theme=light)](https://skillicons.dev)
 
-**Frontend**
+**Frameworks & Libraries**
 
-[![Frontend](https://skillicons.dev/icons?i=nextjs,react,tailwind,bootstrap&theme=light)](https://skillicons.dev)
-
-**Backend**
-
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,flask&theme=light)](https://skillicons.dev)
+[![Frameworks & Libraries](https://skillicons.dev/icons?i=nextjs,react,tailwind,bootstrap,nodejs,express,flask&theme=light)](https://skillicons.dev)
 
 **Databases**
 
